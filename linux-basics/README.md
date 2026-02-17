@@ -1,0 +1,1 @@
+Linux fundamentals and practical understanding notes.
